@@ -1,0 +1,1 @@
+import{d as e,b as o,c as s,u as a,o as t,_ as n}from"./index-c0460441.js";import{A as _,g as c}from"./fileType-5409012c.js";const r={id:"player-con",class:"prism-player"},i=e({__name:"index",setup(p){return a().query,o(()=>{new window.Aliplayer({..._,source:c()})}),(u,l)=>(t(),s("div",r))}});const x=n(i,[["__scopeId","data-v-3c935afa"]]);export{x as default};
